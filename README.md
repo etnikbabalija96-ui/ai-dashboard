@@ -1,3 +1,8 @@
+## 🔗 Links
+- **Live App:** https://etnik-ai-dashboard.streamlit.app
+- **GitHub:** https://github.com/etnikbabalija96-ui/ai-dashboard
+
+
 # 📊 AI Data Dashboard
 
 An interactive data dashboard built with Python, Streamlit and Plotly.
