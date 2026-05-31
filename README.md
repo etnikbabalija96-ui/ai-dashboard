@@ -27,4 +27,4 @@ streamlit run app.py
 ```
 
 ## Screenshots
-*Upload a CSV and instantly explore your data*
+<img width="1876" height="846" alt="image" src="https://github.com/user-attachments/assets/a4b0d46f-adaf-4e70-9002-bd66c678fad8" />
