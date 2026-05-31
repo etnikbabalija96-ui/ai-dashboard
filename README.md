@@ -27,4 +27,4 @@ streamlit run app.py
 ```
 
 ## Screenshots
-<img width="1876" height="846" alt="image" src="https://github.com/user-attachments/assets/a4b0d46f-adaf-4e70-9002-bd66c678fad8" />
+![AI Dashboard](screenshot.png)
